@@ -23,7 +23,7 @@ ExitAnimationApp allows users to:
 
 - Experience the **watch 5-like exit animation** on Lite devices.
 - Implement and customize **@keyframes-based animations** for page transitions.
-- Understand how to apply exit app animation with Javascript in lite wearable devices
+- Understand how to apply exit app animation with Javascript in SportWatch devices
 
 # Tech Stack
 
